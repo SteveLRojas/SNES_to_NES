@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\labels.tmp" -fI -W+ie -o "C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.hex" -d "C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.obj" -e "C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.eep" -m "C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.map" "C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm"
