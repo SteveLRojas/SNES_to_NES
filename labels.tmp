@@ -20,26 +20,26 @@
   <FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <INIT><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>37</LINE></INIT>
-  <NES_OUT><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>53</LINE></NES_OUT>
-  <NES_LATCH><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>60</LINE></NES_LATCH>
-  <MAIN><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>186</LINE></MAIN>
-  <SNES_READ><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>68</LINE></SNES_READ>
-  <SNES_DELAY><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>364</LINE></SNES_DELAY>
-  <KONAMI><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>217</LINE></KONAMI>
-  <NO_X><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>208</LINE></NO_X>
-  <MAIN_TOGGLE><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>212</LINE></MAIN_TOGGLE>
-  <LONG_DELAY><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>371</LINE></LONG_DELAY>
-  <RECEIVE_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>260</LINE></RECEIVE_232>
-  <WAIT_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>262</LINE></WAIT_232>
-  <HALFDELAY_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>340</LINE></HALFDELAY_232>
-  <FULLDELAY_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>348</LINE></FULLDELAY_232>
-  <SEND_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>293</LINE></SEND_232>
-  <TXDELAY_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>356</LINE></TXDELAY_232>
-  <HALFDELAY_2232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>342</LINE></HALFDELAY_2232>
-  <FULLDELAY_2232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>350</LINE></FULLDELAY_2232>
-  <TXDELAY_2232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>358</LINE></TXDELAY_2232>
-  <SNES_DELAY2><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>366</LINE></SNES_DELAY2>
-  <LONGD2><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>374</LINE></LONGD2>
+  <INIT><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>38</LINE></INIT>
+  <NES_OUT><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>54</LINE></NES_OUT>
+  <NES_LATCH><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>61</LINE></NES_LATCH>
+  <MAIN><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>187</LINE></MAIN>
+  <SNES_READ><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>69</LINE></SNES_READ>
+  <SNES_DELAY><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>366</LINE></SNES_DELAY>
+  <KONAMI><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>219</LINE></KONAMI>
+  <NO_X><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>209</LINE></NO_X>
+  <MAIN_TOGGLE><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>213</LINE></MAIN_TOGGLE>
+  <LONG_DELAY><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>373</LINE></LONG_DELAY>
+  <RECEIVE_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>262</LINE></RECEIVE_232>
+  <WAIT_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>264</LINE></WAIT_232>
+  <HALFDELAY_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>342</LINE></HALFDELAY_232>
+  <FULLDELAY_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>350</LINE></FULLDELAY_232>
+  <SEND_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>295</LINE></SEND_232>
+  <TXDELAY_232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>358</LINE></TXDELAY_232>
+  <HALFDELAY_2232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>344</LINE></HALFDELAY_2232>
+  <FULLDELAY_2232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>352</LINE></FULLDELAY_2232>
+  <TXDELAY_2232><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>360</LINE></TXDELAY_2232>
+  <SNES_DELAY2><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>368</LINE></SNES_DELAY2>
+  <LONGD2><FILE>C:\Users\Dragomir Mikhailov\Documents\SNES_to_NES\SNES_to_NES.asm</FILE><LINE>376</LINE></LONGD2>
  </LABELS>
 </ASSEMBLER_INFO>
